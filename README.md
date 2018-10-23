@@ -1,2 +1,3 @@
-# -
-空间计量经济学
+reg  y x 
+estore m1
+esttab m1
